@@ -70,7 +70,7 @@ git clone https://github.com/imranashrafai/UniversityManagement.git
 cd UniversityManagement
 ```
 # 2. Configure Database:
-- Set up a MySQL or SQLite database
+- Set up a MySQL or SQLite database and Database in zip format is available in db Folder.  
 - Update {Conn.java} with your DB credentials
 # 3. Compile and Run:
 - Use any Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
